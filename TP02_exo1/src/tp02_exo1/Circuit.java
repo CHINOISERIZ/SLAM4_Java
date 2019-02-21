@@ -82,7 +82,7 @@ public class Circuit {
                     System.out.println(voiture2.Get_Nom() + " a gagné la course !");
                 }
                 else{
-                    System.out.println(voiture1.Get_Nom() + " a gagné la course !");            
+                    System.out.println(voiture1.Get_Nom() + " a gagné la course !");    
                 }                
             }
         }    
